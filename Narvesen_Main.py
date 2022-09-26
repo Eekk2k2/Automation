@@ -15,12 +15,20 @@ import pyautogui
 #Creates new autmation session
 # quackr_session = quackr.NewSession("https://quackr.io/temporary-numbers/sweden", 39)
 
-tmc_session = tmc.NewSession("https://www.temp-number.com/countries/?country=Sweden&page=1", 9)
+tmc_session_sweden = tmc.NewSession("Sweden", 9)
+tmc_session_finland = tmc.NewSession("Finland", 10)
+quackr_session_sweden = quackr.NewSession("Sweden")
+quackr_session_finland = quackr.NewSession("Finland")
 
-print(tmc.FindTMCMessage(tmc_session, tmc_session.number_links[0], 'is your verification')[0].message)
-print(tmc.GetTMCMessage(tmc_session, tmc_session.number_links[0], 0).message)
-print(tmc.GetAllTMCMessages(tmc_session, tmc_session.number_links[0])[0].message)
+# print(len(quackr_session_finland.numbers))
+# print(str(len(tmc_session_sweden.numbers) + len(tmc_session_finland.numbers) + len(quackr_session_sweden.numbers) + len(quackr_session_finland.numbers)))
 
+
+# quackr_session_finland = quackr.NewSession("https://quackr.io/temporary-numbers/finland", 5)
+
+# print(len(tmc_session_sweden.numbers))
+# print(len(tmc_session_sweden.numbers))
+# print(len(quackr_session_sweden))
 #Opens bluestacks/selects it
 # bssystem.OpenBluestacks()
 

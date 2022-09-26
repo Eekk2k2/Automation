@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import re
 
 from time import sleep as sleep
+from automation.sms.countrydata import *
 
 #Selenium
 from selenium import webdriver
@@ -30,6 +31,7 @@ class Session():
     number_links = []
     numbers = []
     pages_amount = 0
+    country = ""
     link = ""
     service = Service
     driver = webdriver.Firefox
@@ -42,8 +44,14 @@ class Message():
 global main_link
 main_link = "https://www.temp-number.com/"
 
+global page_link_start
+page_link_start = "https://www.temp-number.com/countries/?country="
+
+global page_link_end
+page_link_end = "&page=1"
+
 #Sessions
-def NewSession(_link, _page_amount):
+def NewSession(_country, _page_amount):
     new_session = Session()
     
     options = FirefoxOptions()
@@ -52,8 +60,9 @@ def NewSession(_link, _page_amount):
     new_session.driver = webdriver.Firefox(service=new_session.service, options=options)
 
     new_session.pages_amount = _page_amount
-    new_session.link = _link
-    new_session.numbers, new_session.number_links, *other = GetTMCInfo(new_session.pages_amount, new_session.link, new_session.driver)
+    new_session.country = _country
+    new_session.link = page_link_start + _country + page_link_end
+    new_session.numbers, new_session.number_links, *other = GetTMCInfo(new_session, new_session.pages_amount, new_session.link, new_session.driver)
 
     return new_session
 
@@ -114,7 +123,6 @@ def GetTMCMessage(session, phone_number_link, message_index):
 
     return messages[message_index]
     
-
 def FindTMCMessage(session, phone_number_link, substring):
     #Sets what the message to a message class
     message = Message
@@ -145,15 +153,15 @@ def FindTMCMessage(session, phone_number_link, substring):
 
     return messages
 
-def GetTMCInfo(_page_amount, _link, _driver):
-    _page_links = GetTMCPageLinks(_page_amount, _link)
-    _number_links = GetTMCNumberLinks(_page_links, _driver)
-    _numbers = GetTMCNumbers(_number_links)
+def GetTMCInfo(session, _page_amount, _link, _driver):
+    _page_links = GetTNCPageLinks(_page_amount, _link)
+    _number_links = GetTNCNumberLinks(_page_links, _driver)
+    _numbers = GetTNCNumbers(session, _number_links)
     # headers = [("User-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0")]
 
     return _numbers, _number_links, _page_links
 
-def GetTMCPageLinks(_page_amount, _link):
+def GetTNCPageLinks(_page_amount, _link):
         _page_links = []
  
         #Generates a page url based off of how many pages are input
@@ -163,7 +171,7 @@ def GetTMCPageLinks(_page_amount, _link):
 
         return _page_links
 
-def GetTMCNumberLinks(_page_links, _driver):
+def GetTNCNumberLinks(_page_links, _driver):
     _number_links = []
 
     for page in _page_links:
@@ -177,12 +185,19 @@ def GetTMCNumberLinks(_page_links, _driver):
     
     return _number_links
 
-def GetTMCNumbers(_number_links):
+def GetTNCNumbers(_session, _number_links):
+    country = Country()
+    country = GetCountryDataByName(_session)
+    
     _numbers = []
     i = 0
     for number in _number_links:
-        # print(number.split('/')[3].split('=')[2][2:][:9] + " | " + str(i + 1))
+        # print(number.split('/')[3].split('=')[2][2:][:9] + " | " + str(i + 1)) 
+        new_number = number.split('/')[3].split('=')[2][len(country.CC):]
+        new_number = new_number[:len(new_number)-3]
+        # print(new_number + " | " + number + " | " + country.CC)
+        _numbers.append(new_number)
         i += 1
-        _numbers.append(number.split('/')[3].split('=')[2][2:][:9])
+        
 
     return _numbers
