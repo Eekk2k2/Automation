@@ -124,6 +124,7 @@ def GetTMCMessage(session, phone_number_link, message_index):
     return messages[message_index]
     
 def FindTMCMessage(session, phone_number_link, substring):
+    print(phone_number_link)
     #Sets what the message to a message class
     message = Message
     messages = []
@@ -199,5 +200,4 @@ def GetTNCNumbers(_session, _number_links):
         _numbers.append(new_number)
         i += 1
         
-
     return _numbers

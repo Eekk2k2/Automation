@@ -140,6 +140,8 @@ def GetQuackrMessage(session, phone_number_link, message_index):
     return messages[message_index]
 
 def FindQuackrMessage(session, phone_number_link, substring):
+    print(phone_number_link)
+    
     #Sets what the message to a message class
     message = Message
     messages = []

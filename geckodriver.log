@@ -3705,7 +3705,8 @@ JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514
 JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
 JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
 JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
-1664198801390	geckodriver	INFO	Listening on 127.0.0.1:59950
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59950
 1664198804402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilel8QxBF"
 *** You are running in headless mode.
 1664198804627	Marionette	INFO	Marionette enabled
@@ -3802,7 +3803,8 @@ Read port: 60596
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileauLBLp\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:60585/devtools/browser/59b7d69c-004f-4c5b-b87f-51ff22fca8a1
 JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6852 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
-1664198996283	geckodriver	INFO	Listening on 127.0.0.1:60668
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60668
 1664198999299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilelUsuzC"
 *** You are running in headless mode.
 1664198999524	Marionette	INFO	Marionette enabled
@@ -3821,7 +3823,8 @@ JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514
 JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
 JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
 JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
-1664199086854	geckodriver	INFO	Listening on 127.0.0.1:60864
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60864
 1664199089875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilev3Af8C"
 *** You are running in headless mode.
 1664199090113	Marionette	INFO	Marionette enabled
@@ -3894,3 +3897,795 @@ Read port: 61196
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilekQJRoW\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:61186/devtools/browser/469c7911-7d7e-434a-8c54-9b35fc81ef8a
 JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 480 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664199309828	geckodriver	INFO	Listening on 127.0.0.1:61406
+1664199312865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileJkwafv"
+*** You are running in headless mode.
+1664199313088	Marionette	INFO	Marionette enabled
+1664199313092	Marionette	INFO	Listening on port 61416
+WebDriver BiDi listening on ws://127.0.0.1:61407
+Read port: 61416
+1664199313245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileJkwafv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61407/devtools/browser/ea69d776-6acb-40f8-997c-dfa8eff0d0a3
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1215 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 605 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4883 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664199332057	geckodriver	INFO	Listening on 127.0.0.1:61545
+1664199335095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileLjurSE"
+*** You are running in headless mode.
+1664199335320	Marionette	INFO	Marionette enabled
+1664199335323	Marionette	INFO	Listening on port 61557
+WebDriver BiDi listening on ws://127.0.0.1:61546
+Read port: 61557
+1664199335479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileLjurSE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61546/devtools/browser/e7014f05-46c1-4633-80c5-81896984a0c0
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61657
+1664199355320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileCXmLgo"
+*** You are running in headless mode.
+1664199355534	Marionette	INFO	Marionette enabled
+1664199355537	Marionette	INFO	Listening on port 61668
+Read port: 61668
+WebDriver BiDi listening on ws://127.0.0.1:61658
+1664199355595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileCXmLgo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61658/devtools/browser/dfea1609-2d50-4aa4-9187-c2b04aa2ffe5
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4504 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664199367351	geckodriver	INFO	Listening on 127.0.0.1:61747
+1664199370382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilelnktvl"
+*** You are running in headless mode.
+1664199370603	Marionette	INFO	Marionette enabled
+1664199370607	Marionette	INFO	Listening on port 61757
+WebDriver BiDi listening on ws://127.0.0.1:61748
+Read port: 61757
+1664199370768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilelnktvl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61748/devtools/browser/1470138a-842b-430c-9559-44db5b3aa2d5
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664200304580	geckodriver	INFO	Listening on 127.0.0.1:62357
+1664200307580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilekGmNla"
+*** You are running in headless mode.
+1664200307805	Marionette	INFO	Marionette enabled
+1664200307808	Marionette	INFO	Listening on port 62370
+WebDriver BiDi listening on ws://127.0.0.1:62358
+Read port: 62370
+1664200307968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilekGmNla\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62358/devtools/browser/89feb0f0-aa98-4c5d-8c87-77940e566d62
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664200325424	geckodriver	INFO	Listening on 127.0.0.1:62446
+1664200328423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileEbUU3c"
+*** You are running in headless mode.
+1664200328646	Marionette	INFO	Marionette enabled
+1664200328649	Marionette	INFO	Listening on port 62456
+WebDriver BiDi listening on ws://127.0.0.1:62447
+Read port: 62456
+1664200328803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileEbUU3c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62447/devtools/browser/fa486de4-80db-4291-a62b-32ee7a10dd73
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2589 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 8 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664200345961	geckodriver	INFO	Listening on 127.0.0.1:62548
+1664200348962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileysNaIq"
+*** You are running in headless mode.
+1664200349233	Marionette	INFO	Marionette enabled
+1664200349236	Marionette	INFO	Listening on port 62558
+Read port: 62558
+WebDriver BiDi listening on ws://127.0.0.1:62549
+1664200349301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileysNaIq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62549/devtools/browser/69e7db39-dd5f-4ec1-9803-63a5c6a4a385
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5355 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664200361774	geckodriver	INFO	Listening on 127.0.0.1:62643
+1664200364773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileR4ulHY"
+*** You are running in headless mode.
+1664200365004	Marionette	INFO	Marionette enabled
+1664200365007	Marionette	INFO	Listening on port 62654
+WebDriver BiDi listening on ws://127.0.0.1:62644
+Read port: 62654
+1664200365189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileR4ulHY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62644/devtools/browser/13dc487c-61d0-476d-b73c-a5b7034a0318
+1664200777362	geckodriver	INFO	Listening on 127.0.0.1:51100
+1664200780362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile7K1ZHl"
+*** You are running in headless mode.
+1664200780583	Marionette	INFO	Marionette enabled
+1664200780586	Marionette	INFO	Listening on port 51111
+WebDriver BiDi listening on ws://127.0.0.1:51101
+Read port: 51111
+1664200780747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile7K1ZHl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51101/devtools/browser/aafc58e0-b858-43b7-89e7-681e313fee68
+1664200793404	geckodriver	INFO	Listening on 127.0.0.1:51180
+1664200796406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileUTilZc"
+*** You are running in headless mode.
+1664200796626	Marionette	INFO	Marionette enabled
+1664200796629	Marionette	INFO	Listening on port 51190
+WebDriver BiDi listening on ws://127.0.0.1:51181
+Read port: 51190
+1664200796779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileUTilZc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51181/devtools/browser/7fea9f2f-2048-432f-8c7f-c0c9d88dc746
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3453 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664200832682	geckodriver	INFO	Listening on 127.0.0.1:51307
+1664200835683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileExD2ih"
+*** You are running in headless mode.
+1664200835907	Marionette	INFO	Marionette enabled
+1664200835909	Marionette	INFO	Listening on port 51322
+WebDriver BiDi listening on ws://127.0.0.1:51308
+Read port: 51322
+1664200836062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileExD2ih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51308/devtools/browser/b74b2345-922b-405d-bf26-2d4a031da0b6
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664200911437	geckodriver	INFO	Listening on 127.0.0.1:51428
+1664200914436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileOEPxg4"
+*** You are running in headless mode.
+1664200914649	Marionette	INFO	Marionette enabled
+1664200914652	Marionette	INFO	Listening on port 51438
+WebDriver BiDi listening on ws://127.0.0.1:51429
+Read port: 51438
+1664200914804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileOEPxg4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51429/devtools/browser/11d4ea20-198d-467f-8543-8936ecc1c6cf
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3980 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4066 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6014 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 338 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4655 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1963 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3362 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664201049134	geckodriver	INFO	Listening on 127.0.0.1:51603
+1664201052134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileYfiN3R"
+*** You are running in headless mode.
+1664201052343	Marionette	INFO	Marionette enabled
+1664201052346	Marionette	INFO	Listening on port 51613
+WebDriver BiDi listening on ws://127.0.0.1:51604
+Read port: 51613
+1664201052496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileYfiN3R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51604/devtools/browser/293f002b-d929-403b-8b8d-7330c23162d7
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664201195212	geckodriver	INFO	Listening on 127.0.0.1:51751
+1664201198211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilezOKgyU"
+*** You are running in headless mode.
+1664201198434	Marionette	INFO	Marionette enabled
+1664201198437	Marionette	INFO	Listening on port 51764
+WebDriver BiDi listening on ws://127.0.0.1:51752
+Read port: 51764
+1664201198592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilezOKgyU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51752/devtools/browser/c98439c0-8f84-4ac9-9c96-6e8d3253ce99
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664201275113	geckodriver	INFO	Listening on 127.0.0.1:51879
+1664201278115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilefQL4Yc"
+*** You are running in headless mode.
+1664201278325	Marionette	INFO	Marionette enabled
+1664201278328	Marionette	INFO	Listening on port 51889
+WebDriver BiDi listening on ws://127.0.0.1:51880
+Read port: 51889
+1664201278476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilefQL4Yc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51880/devtools/browser/1dffdf14-2617-47fa-b070-b39121b5162f
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 929 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4924 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1646 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1062 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664201463277	geckodriver	INFO	Listening on 127.0.0.1:52086
+1664201466276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile13nRTC"
+*** You are running in headless mode.
+1664201466493	Marionette	INFO	Marionette enabled
+1664201466496	Marionette	INFO	Listening on port 52097
+WebDriver BiDi listening on ws://127.0.0.1:52087
+Read port: 52097
+1664201466651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile13nRTC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52087/devtools/browser/16dd1ace-10b2-40c1-b321-d94c11c089e1
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664201790080	geckodriver	INFO	Listening on 127.0.0.1:62415
+1664201793082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilebH5737"
+*** You are running in headless mode.
+1664201793297	Marionette	INFO	Marionette enabled
+1664201793300	Marionette	INFO	Listening on port 62425
+WebDriver BiDi listening on ws://127.0.0.1:62416
+Read port: 62425
+1664201793452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilebH5737\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62416/devtools/browser/009efa23-cb63-493a-9c06-f6521e8572ea
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664201838684	geckodriver	INFO	Listening on 127.0.0.1:62516
+1664201841682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilev4tWER"
+*** You are running in headless mode.
+1664201841901	Marionette	INFO	Marionette enabled
+1664201841906	Marionette	INFO	Listening on port 62526
+WebDriver BiDi listening on ws://127.0.0.1:62517
+Read port: 62526
+1664201842057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilev4tWER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62517/devtools/browser/3477172c-2dba-4a16-9489-efe79f6867f2
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 7166 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4876 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2248 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664202066401	geckodriver	INFO	Listening on 127.0.0.1:62723
+1664202069401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileoten00"
+*** You are running in headless mode.
+1664202069618	Marionette	INFO	Marionette enabled
+1664202069621	Marionette	INFO	Listening on port 62733
+WebDriver BiDi listening on ws://127.0.0.1:62724
+Read port: 62733
+1664202069776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileoten00\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62724/devtools/browser/d18f5fef-5f1f-4e68-83ea-94047a3eb03a
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5653 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3035 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664202154374	geckodriver	INFO	Listening on 127.0.0.1:62867
+1664202157377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileRjGqwy"
+*** You are running in headless mode.
+1664202157593	Marionette	INFO	Marionette enabled
+1664202157596	Marionette	INFO	Listening on port 62883
+WebDriver BiDi listening on ws://127.0.0.1:62868
+Read port: 62883
+1664202157750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileRjGqwy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62868/devtools/browser/e7d1d782-cbde-4b90-b75a-a61130f384d2
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5390 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664202273730	geckodriver	INFO	Listening on 127.0.0.1:63007
+1664202276731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilef7EmFz"
+*** You are running in headless mode.
+1664202276952	Marionette	INFO	Marionette enabled
+1664202276955	Marionette	INFO	Listening on port 63018
+WebDriver BiDi listening on ws://127.0.0.1:63008
+Read port: 63018
+1664202277112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilef7EmFz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63008/devtools/browser/9180349a-8f16-40ee-a544-dcaea524d96e
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 132 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664202351020	geckodriver	INFO	Listening on 127.0.0.1:63125
+1664202354020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileZOFVMU"
+*** You are running in headless mode.
+1664202354233	Marionette	INFO	Marionette enabled
+1664202354236	Marionette	INFO	Listening on port 63135
+WebDriver BiDi listening on ws://127.0.0.1:63126
+Read port: 63135
+1664202354392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileZOFVMU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63126/devtools/browser/483465b4-ac99-4a2c-94d2-c4e1a7c55ca6
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664202392715	geckodriver	INFO	Listening on 127.0.0.1:63236
+1664202395714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilelHJ9jt"
+*** You are running in headless mode.
+1664202395931	Marionette	INFO	Marionette enabled
+1664202395934	Marionette	INFO	Listening on port 63246
+WebDriver BiDi listening on ws://127.0.0.1:63237
+Read port: 63246
+1664202396090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilelHJ9jt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63237/devtools/browser/e2d65ddc-8c78-42c4-97d8-ddfdd873520c
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664203605082	geckodriver	INFO	Listening on 127.0.0.1:63444
+1664203608081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilenEg4df"
+*** You are running in headless mode.
+1664203608293	Marionette	INFO	Marionette enabled
+1664203608296	Marionette	INFO	Listening on port 63456
+WebDriver BiDi listening on ws://127.0.0.1:63445
+Read port: 63456
+1664203608445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilenEg4df\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63445/devtools/browser/814bc339-b80f-4657-a684-e19701943cdc
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2640 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3862 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4122 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664203634366	geckodriver	INFO	Listening on 127.0.0.1:63548
+1664203637366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofiled96wMM"
+*** You are running in headless mode.
+1664203637582	Marionette	INFO	Marionette enabled
+1664203637585	Marionette	INFO	Listening on port 63558
+WebDriver BiDi listening on ws://127.0.0.1:63549
+Read port: 63558
+1664203637733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofiled96wMM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63549/devtools/browser/dd1a1dcd-f6a9-4a05-ad57-274b422ac7e9
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1489 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 282 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664203717604	geckodriver	INFO	Listening on 127.0.0.1:63703
+1664203720602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile1gOT4d"
+*** You are running in headless mode.
+1664203720822	Marionette	INFO	Marionette enabled
+1664203720825	Marionette	INFO	Listening on port 63716
+WebDriver BiDi listening on ws://127.0.0.1:63704
+Read port: 63716
+1664203720978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile1gOT4d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63704/devtools/browser/b252a60d-7d38-4e3d-947e-9921351b91df
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664203753584	geckodriver	INFO	Listening on 127.0.0.1:63818
+1664203756584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile7tP2dr"
+*** You are running in headless mode.
+1664203756821	Marionette	INFO	Marionette enabled
+1664203756824	Marionette	INFO	Listening on port 63828
+WebDriver BiDi listening on ws://127.0.0.1:63819
+Read port: 63828
+1664203756973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile7tP2dr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63819/devtools/browser/d5b009fe-6239-4b85-83cd-d86dbc47f7d6
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 857 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6815 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6017 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664203806471	geckodriver	INFO	Listening on 127.0.0.1:63940
+1664203809470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile3qkqav"
+*** You are running in headless mode.
+1664203809686	Marionette	INFO	Marionette enabled
+1664203809689	Marionette	INFO	Listening on port 63952
+WebDriver BiDi listening on ws://127.0.0.1:63941
+Read port: 63952
+1664203809841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile3qkqav\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63941/devtools/browser/6586bebb-1220-4867-8798-6e3fc460eb6a
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664203842416	geckodriver	INFO	Listening on 127.0.0.1:64044
+1664203845415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile2WgFpH"
+*** You are running in headless mode.
+1664203845636	Marionette	INFO	Marionette enabled
+1664203845639	Marionette	INFO	Listening on port 64055
+WebDriver BiDi listening on ws://127.0.0.1:64045
+Read port: 64055
+1664203845791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofile2WgFpH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64045/devtools/browser/fe3d192d-e71d-437d-9043-df17ceda8b19
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664203924477	geckodriver	INFO	Listening on 127.0.0.1:64163
+1664203927476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64164" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilebzADq0"
+*** You are running in headless mode.
+1664203927693	Marionette	INFO	Marionette enabled
+1664203927696	Marionette	INFO	Listening on port 64173
+WebDriver BiDi listening on ws://127.0.0.1:64164
+Read port: 64173
+1664203927847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofilebzADq0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64164/devtools/browser/3de14f9e-0e19-4d8b-93d9-5818174b1711
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2815 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 867 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 7073 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664203998265	geckodriver	INFO	Listening on 127.0.0.1:64301
+1664204001266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileEVIQbN"
+*** You are running in headless mode.
+1664204001489	Marionette	INFO	Marionette enabled
+1664204001491	Marionette	INFO	Listening on port 64311
+WebDriver BiDi listening on ws://127.0.0.1:64302
+Read port: 64311
+1664204001642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileEVIQbN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64302/devtools/browser/51307b09-9a1d-4bd7-bfc7-cc9868c03341
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 7727 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5462 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664204101379	geckodriver	INFO	Listening on 127.0.0.1:64445
+1664204104379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileKiBX22"
+*** You are running in headless mode.
+1664204104595	Marionette	INFO	Marionette enabled
+1664204104598	Marionette	INFO	Listening on port 64455
+WebDriver BiDi listening on ws://127.0.0.1:64446
+Read port: 64455
+1664204104757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileKiBX22\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64446/devtools/browser/7dac8a1c-237e-4331-80c4-85555ad06509
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 166 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6648 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3454 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6650 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 1068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+1664204171587	geckodriver	INFO	Listening on 127.0.0.1:64603
+1664204174586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileojvr1c"
+*** You are running in headless mode.
+1664204174813	Marionette	INFO	Marionette enabled
+1664204174816	Marionette	INFO	Listening on port 64613
+WebDriver BiDi listening on ws://127.0.0.1:64604
+Read port: 64613
+1664204174974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileojvr1c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64604/devtools/browser/41b0b135-0bf2-4aa6-a03c-1705a8e3e089
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 2981 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4215 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 471 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6033 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4956 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3650 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664204368802	geckodriver	INFO	Listening on 127.0.0.1:64915
+1664204371800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileWZTglx"
+*** You are running in headless mode.
+1664204372022	Marionette	INFO	Marionette enabled
+1664204372025	Marionette	INFO	Listening on port 64926
+WebDriver BiDi listening on ws://127.0.0.1:64916
+Read port: 64926
+1664204372180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileWZTglx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64916/devtools/browser/d08febc6-77d4-47bd-b0fd-1cc6e418441e
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 4566 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 3878 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6202 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 6954 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lNPcL4AZZQ8z9NJpy71wtXJu_aTy2V1-RO76Pd5QcdQ.js line 2 > eval line 5108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664205607060	geckodriver	INFO	Listening on 127.0.0.1:50129
+1664377617301	geckodriver	INFO	Listening on 127.0.0.1:57208
+1664377620307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileT7Lrk7"
+*** You are running in headless mode.
+1664377620591	Marionette	INFO	Marionette enabled
+1664377620594	Marionette	INFO	Listening on port 57222
+Read port: 57222
+WebDriver BiDi listening on ws://127.0.0.1:57209
+1664377620661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eskil\\AppData\\Local\\Temp\\rust_mozprofileT7Lrk7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57209/devtools/browser/cbec5691-757b-4369-8ff1-79393798422e
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151514, line 1: f: OneSignal: This web push config can only be used on https://temp-number.com. Your current origin is https://www.temp-number.com.
