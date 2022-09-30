@@ -72,8 +72,9 @@ def SaveSession(session):
 def LoadSession(session_path):
     pass
 
-#Temp Number Com - TMC
+#Temp Number Com - TNC
 def GetAllTMCMessages(session, phone_number_link):
+    print("Getting every messages from " + phone_number_link)
     #Sets what the message to a message class
     message = Message
     messages = []
@@ -90,8 +91,8 @@ def GetAllTMCMessages(session, phone_number_link):
         message_element = msg_element.find_element(By.XPATH, './div[2]')
 
         _message = Message()
-        _message.recieved = sender_element.text
-        _message.sender = recieved_element.text
+        _message.recieved = recieved_element.text
+        _message.sender = sender_element.text
         _message.message = message_element.text
 
         messages.append(_message)
@@ -115,8 +116,8 @@ def GetTMCMessage(session, phone_number_link, message_index):
         message_element = msg_element.find_element(By.XPATH, './div[2]')
 
         _message = Message()
-        _message.recieved = sender_element.text
-        _message.sender = recieved_element.text
+        _message.recieved = recieved_element.text
+        _message.sender = sender_element.text
         _message.message = message_element.text
 
         messages.append(_message)
@@ -124,6 +125,8 @@ def GetTMCMessage(session, phone_number_link, message_index):
     return messages[message_index]
     
 def FindTMCMessage(session, phone_number_link, substring):
+    print('Finding "' + substring + '" in ' + phone_number_link)
+    
     print(phone_number_link)
     #Sets what the message to a message class
     message = Message
@@ -141,8 +144,8 @@ def FindTMCMessage(session, phone_number_link, substring):
         message_element = msg_element.find_element(By.XPATH, './div[2]')
 
         _message = Message()
-        _message.recieved = sender_element.text
-        _message.sender = recieved_element.text
+        _message.recieved = recieved_element.text
+        _message.sender = sender_element.text
         _message.message = message_element.text
         
         if substring in _message.message:
@@ -154,6 +157,7 @@ def FindTMCMessage(session, phone_number_link, substring):
 
     return messages
 
+#Information
 def GetTMCInfo(session, _page_amount, _link, _driver):
     _page_links = GetTNCPageLinks(_page_amount, _link)
     _number_links = GetTNCNumberLinks(_page_links, _driver)

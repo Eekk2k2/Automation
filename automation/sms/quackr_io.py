@@ -74,6 +74,8 @@ def LoadSession(session_path):
 
 #Quackr
 def GetAllQuackrMessages(session, phone_number_link, message_index):
+    print("Getting every messages from " + phone_number_link)
+    
     #Sets what the message to a message class
     message = Message
     messages = []
@@ -107,6 +109,8 @@ def GetAllQuackrMessages(session, phone_number_link, message_index):
     return messages
 
 def GetQuackrMessage(session, phone_number_link, message_index):
+    print("Gettings message number " + str(message_index) + " from " + phone_number_link)
+    
     #Sets what the message to a message class
     message = Message
     messages = []
@@ -140,7 +144,7 @@ def GetQuackrMessage(session, phone_number_link, message_index):
     return messages[message_index]
 
 def FindQuackrMessage(session, phone_number_link, substring):
-    print(phone_number_link)
+    print('Finding "' + substring + '" in ' + phone_number_link)
     
     #Sets what the message to a message class
     message = Message
@@ -179,6 +183,7 @@ def FindQuackrMessage(session, phone_number_link, substring):
 
     return messages
 
+#Information
 def GetQuackrInfo(session, _limit, _link, _driver):
     _number_links = GetQuackrNumberLinks(session, _limit, _link, _driver)
     _numbers = GetQuackrNumbers(session, _number_links)

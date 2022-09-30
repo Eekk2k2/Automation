@@ -119,26 +119,3 @@ mail.Send()
 
 # session = NewSession()
 # GmailLogIn("", "", session.driver)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
